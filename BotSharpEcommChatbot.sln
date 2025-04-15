@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BotSharpEcommChatbot.Console", "BotSharpEcommChatbot.Console\BotSharpEcommChatbot.Console.csproj", "{BD263BCA-8739-49E1-B009-7286ABD1090D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OllamaOpenAIProxy", "OllamaOpenAIProxy\OllamaOpenAIProxy.csproj", "{CA4069E3-52E4-4523-A738-BA31A41C453D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD263BCA-8739-49E1-B009-7286ABD1090D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD263BCA-8739-49E1-B009-7286ABD1090D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD263BCA-8739-49E1-B009-7286ABD1090D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD263BCA-8739-49E1-B009-7286ABD1090D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA4069E3-52E4-4523-A738-BA31A41C453D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA4069E3-52E4-4523-A738-BA31A41C453D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA4069E3-52E4-4523-A738-BA31A41C453D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA4069E3-52E4-4523-A738-BA31A41C453D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A5C1A65-AC6C-40D2-9204-F0F4D661A2C1}
+	EndGlobalSection
+EndGlobal
